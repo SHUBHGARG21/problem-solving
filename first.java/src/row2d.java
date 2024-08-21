@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class row2d {
-    public static void main(strings[] args) {
+    public static void main(String[] args) {
     int[][] arr={
             {10,20,30,40},
             {15,25,35,45},
