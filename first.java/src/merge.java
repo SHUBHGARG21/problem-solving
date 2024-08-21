@@ -1,6 +1,6 @@
 import java.util.Arrays;
 public class merge {
-    public static void main(strings[] args) {
+    public static void main(String[] args) {
         int[] arr={5,7,3,10,9,1,33,44,55,66,765};
         arr=Merge(arr);
         System.out.println(Arrays.toString(arr));

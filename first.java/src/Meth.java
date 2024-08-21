@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Meth {
-    public static void main(strings[] args) {
+    public static void main(String[] args) {
         Sum();
     }
     static void Sum(){
