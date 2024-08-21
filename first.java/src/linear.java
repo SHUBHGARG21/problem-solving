@@ -1,5 +1,5 @@
 public class linear {
-    public static void main(strings[] args) {
+    public static void main(String[] args) {
         int[] a={12,123,4324,123445};
         int[] j=new int[10000];
         int l=0;
