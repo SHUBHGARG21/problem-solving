@@ -17,10 +17,4 @@ class BST {
     public BST(){
 
     }
-
-
-
-
-
-
 }
